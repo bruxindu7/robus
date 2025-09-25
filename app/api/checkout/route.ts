@@ -7,7 +7,7 @@ const PIX_CREATE_PATH = "/v1/transactions";
 // 🔐 Domínios permitidos
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://seudominio.com", // troque pelo seu real
+  "https://www.recargabuxs.cc", // troque pelo seu real
 ];
 
 function isOriginAllowed(req: Request) {

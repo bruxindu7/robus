@@ -12,7 +12,8 @@ export default function Home() {
     { id: 1, nome: "1200 ROBUX", preco: "R$ 19,90", img: "/RxqJCQs.png", avaliacoes: 108, rating: 4 },
     { id: 2, nome: "1700 ROBUX", preco: "R$ 22.99", precoAntigo: "R$ 29.99", desconto: "-12%", img: "/Dr7tYqv.png", avaliacoes: 132, rating: 5 },
     { id: 3, nome: "2100 ROBUX", preco: "R$ 29,90", img: "/I9f8bdi.png", avaliacoes: 54, rating: 4 },
-    { id: 4, nome: "3600 ROBUX", preco: "R$ 47,90", precoAntigo: "R$ 53,90", desconto: "-11%", img: "/Ov5Pi7u.PNG", avaliacoes: 201, rating: 4 },
+    { id: 4, nome: "3600 ROBUX", preco: "R$ 47,90", precoAntigo: "R$ 53,90", desconto: "-11%", img: "/Ov5Pi7u.png", avaliacoes: 201, rating: 4 },
+
   ];
 
   const gerarSlug = (nome: string) =>

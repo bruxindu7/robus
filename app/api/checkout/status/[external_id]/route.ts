@@ -5,7 +5,7 @@ import type { NextRequest } from "next/server";
 const BUCKPAY_BASE_URL = "https://api.realtechdev.com.br";
 
 const allowedOrigins = [
-  "https://www.recargasjogos.skin",
+  "https://www.recargabuxs.cc",
   "http://localhost:3000",
 ];
 

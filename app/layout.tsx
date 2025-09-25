@@ -14,9 +14,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "RecargaBux",
-  description: "Loja de Robux com checkout via Pix",
+  title: "RECARGABUX - Sua Loja de Produtos Digitais | Entrega Automática 24h",
+  description:
+    "Compre na RECARGABUX: loja online especializada em produtos digitais. Gift cards, moedas virtuais, códigos de jogos e mais. Entrega automática 24h e segura.",
 };
+
 
 export default function RootLayout({
   children,
